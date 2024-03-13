@@ -1,5 +1,5 @@
 
-const Blog = ({blog, handleAddToBookmarks}) => {
+const Blog = ({blog, handleAddToBookmarks, handleMarkAsRead}) => {
   const {title, cover, author_img, author, posted_date, reading_time, hashtags} = blog;
   return (
     <div className="w-[1000px] mb-10">
@@ -28,7 +28,7 @@ const Blog = ({blog, handleAddToBookmarks}) => {
         <p>{hashtags[1]}</p>
         <p>{hashtags[2]}</p>
         </div>
-        <button className="underline text-[#6047EC] text-xl font-semibold">Mark as read</button>
+        <button onClick={() => handleMarkAsRead(reading_time)} className="underline text-[#6047EC] text-xl font-semibold">Mark as read</button>
       </div>
         
     </div>
