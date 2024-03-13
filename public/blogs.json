@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/N9skzKF/nature.png",
+    "title": "The Secret Garden: Unraveling the Mysteries of Nature",
+    "author": "Alice Meadows",
+    "author_img": "https://i.ibb.co/z2MyKmf/Author-1.jpg",
+    "posted_date": "2024-03-13",
+    "reading_time": 30,
+    "hashtags": ["#fantasy", "#mystery", "#adventure"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/YZyKKrr/SciFi.jpg",
+    "title": "Beyond the Horizon: Exploring the Depths of Existence",
+    "author": "James Rivers",
+    "author_img": "https://i.ibb.co/cbLYvjG/Author-2.jpg",
+    "posted_date": "2024-03-12",
+    "reading_time": 45,
+    "hashtags": ["#sci-fi", "#philosophy", "#journey"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/hKbHwkT/Sunset.jpg",
+    "title": "Echoes of Yesterday: Nostalgia in the Heart of the City",
+    "author": "Emily Sands",
+    "author_img": "https://i.ibb.co/yBSkvBm/Author-3.png",
+    "posted_date": "2024-03-11",
+    "reading_time": 25,
+    "hashtags": ["#historical", "#romance", "#mystery"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/v1zWC3n/Journey.jpg",
+    "title": "Whispers in the Wind: Poetry of the Soul's Journey",
+    "author": "David Stone",
+    "author_img": "https://i.ibb.co/J5wYLCz/Author-4.jpg",
+    "posted_date": "2024-03-10",
+    "reading_time": 35,
+    "hashtags": ["#poetry", "#inspiration", "#nature"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/RbdG2HF/Riddle.jpg",
+    "title": "The Enigma Code: Deciphering the Riddles of Existence",
+    "author": "Sarah Woods",
+    "author_img": "https://i.ibb.co/MSk2T8r/Author-5.jpg",
+    "posted_date": "2024-03-09",
+    "reading_time": 50,
+    "hashtags": ["#mystery", "#thriller", "#enigma"]
+  }
+]
